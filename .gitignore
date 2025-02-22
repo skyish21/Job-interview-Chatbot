@@ -1,0 +1,8 @@
+utils/question_generator.py
+utils/response_analysis.py
+
+# Ignore virtual environment
+venv/
+
+# Ignore compiled Python files
+__pycache__/
