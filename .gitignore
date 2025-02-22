@@ -1,0 +1,7 @@
+secrets.toml
+
+# Ignore virtual environment
+venv/
+
+# Ignore compiled Python files
+__pycache__/
