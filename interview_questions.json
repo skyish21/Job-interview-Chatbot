@@ -1,0 +1,18 @@
+{
+    "data_scientist": [
+      "Can you explain the difference between supervised and unsupervised learning?",
+      "How would you handle missing data in a dataset?",
+      "What is the difference between batch gradient descent and stochastic gradient descent?"
+    ],
+    "software_engineer": [
+      "Explain the concept of polymorphism in OOP.",
+      "How would you optimize a SQL query?",
+      "What happens when you type a URL in a browser?"
+    ],
+    "hr_interview": [
+      "Tell me about yourself.",
+      "Why should we hire you?",
+      "Describe a time you faced a challenge at work."
+    ]
+  }
+  
