@@ -1,18 +1,70 @@
 {
-    "data_scientist": [
-      "Can you explain the difference between supervised and unsupervised learning?",
-      "How would you handle missing data in a dataset?",
-      "What is the difference between batch gradient descent and stochastic gradient descent?"
-    ],
-    "software_engineer": [
-      "Explain the concept of polymorphism in OOP.",
-      "How would you optimize a SQL query?",
-      "What happens when you type a URL in a browser?"
-    ],
-    "hr_interview": [
-      "Tell me about yourself.",
-      "Why should we hire you?",
-      "Describe a time you faced a challenge at work."
-    ]
-  }
+  "data_scientist": [
+    "Can you explain the difference between supervised and unsupervised learning?",
+    "What is the bias-variance tradeoff?",
+    "How do you handle missing data?",
+    "Can you explain the purpose of regularization in machine learning?",
+    "What is overfitting and how do you prevent it?",
+    "Explain the difference between classification and regression.",
+    "How do you deal with an imbalanced dataset?",
+    "What is a confusion matrix, and how do you interpret it?",
+    "Can you explain how a random forest works?",
+    "What is the curse of dimensionality and how do you address it?",
+    "What are the different types of machine learning algorithms?",
+    "What is cross-validation and why is it important?",
+    "Explain the concept of gradient descent.",
+    "How do you ensure that your model generalizes well?",
+    "What is the difference between L1 and L2 regularization?",
+    "How do you evaluate the performance of a regression model?",
+    "Can you explain the difference between ROC and PR curves?",
+    "What is feature engineering, and why is it important?",
+    "What is PCA and how do you use it?",
+    "Can you describe a recent data science project you’ve worked on?"
+  ],
+  "software_engineer": [
+    "What programming languages are you proficient in?",
+    "Can you explain the concept of object-oriented programming?",
+    "What is the difference between a stack and a queue?",
+    "Explain the concept of recursion and provide an example.",
+    "What is a database index, and how does it improve performance?",
+    "How do you optimize a slow-performing query in SQL?",
+    "Can you explain the Model-View-Controller (MVC) design pattern?",
+    "What is version control, and why is it important?",
+    "Can you explain the difference between a thread and a process?",
+    "What are the different types of joins in SQL?",
+    "Can you explain the concept of big-O notation and its importance?",
+    "What is multithreading, and when would you use it?",
+    "Can you explain the difference between an abstract class and an interface?",
+    "What is the purpose of design patterns in software engineering?",
+    "What is the difference between TCP and UDP?",
+    "How do you ensure code quality and maintainability?",
+    "Can you explain the concept of dependency injection?",
+    "What is an algorithm, and how do you evaluate its efficiency?",
+    "How do you approach debugging a complex issue in a system?",
+    "Can you explain the concept of RESTful APIs?"
+  ],
+  "hr_interview": [
+    "Tell me about yourself.",
+    "Why do you want to work for our company?",
+    "What are your strengths and weaknesses?",
+    "Where do you see yourself in 5 years?",
+    "Can you describe a challenging situation you’ve faced at work and how you handled it?",
+    "Why did you leave your last job?",
+    "What do you know about our company?",
+    "How do you prioritize your work?",
+    "What motivates you in your work?",
+    "Can you describe a time when you worked in a team to achieve a goal?",
+    "How do you handle stress and pressure?",
+    "What are your salary expectations?",
+    "What makes you a good fit for this role?",
+    "What do you like to do outside of work?",
+    "Can you give an example of a time when you demonstrated leadership?",
+    "How do you stay organized in your work?",
+    "What was the most difficult decision you made in your last job?",
+    "How do you handle feedback and criticism?",
+    "Can you describe a time when you had to learn a new skill quickly?",
+    "Why should we hire you?"
+  ]
+}
+
   
