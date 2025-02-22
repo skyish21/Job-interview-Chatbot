@@ -24,20 +24,19 @@ This project implements an AI-powered chatbot designed to help job seekers prepa
 
 You can install the required dependencies using `pip`. Here is the list of libraries needed for the project:
 
-```bash
+```
 pip install requirements.txt
 
 ## 🛠️ How to Use
 1. Clone the repository
 Clone this repository to your local machine:
 
-bash
+
 ```
 git clone https://github.com/skyish21/job-interview-chatbot.git
 ```
 2. Upload Your Own Dataset
 You can upload a custom dataset of interview questions in JSON format. The JSON should be structured as follows:
-bash
 ```
 {
   "questions": [
@@ -54,7 +53,6 @@ bash
 ```
 3. Run the Application
 After installing dependencies and uploading your custom dataset (if any), run the Streamlit application:
-bash
 ```
 streamlit run app.py
 ```
