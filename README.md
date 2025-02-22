@@ -26,15 +26,15 @@ You can install the required dependencies using `pip`. Here is the list of libra
 
 ```
 pip install requirements.txt
+```
 
 ## 🛠️ How to Use
 1. Clone the repository
 Clone this repository to your local machine:
-
-
 ```
 git clone https://github.com/skyish21/job-interview-chatbot.git
 ```
+
 2. Upload Your Own Dataset
 You can upload a custom dataset of interview questions in JSON format. The JSON should be structured as follows:
 ```
