@@ -1,4 +1,4 @@
-secrets.toml
+.streamlit/secrets.toml
 
 # Ignore virtual environment
 venv/
