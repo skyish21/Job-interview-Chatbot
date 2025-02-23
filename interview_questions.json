@@ -65,7 +65,7 @@
     "Can you describe a time when you had to learn a new skill quickly?",
     "Why should we hire you?"
   ],
-  "Motion_Graphic_Designer": [
+  "motion_graphic_designer": [
     "What motion graphics software are you most proficient in, and why?",
     "How do you use After Effects expressions to automate animations?",
     "Have you worked with 3D motion graphics? If so, which tools do you use (e.g., Cinema 4D, Blender)?",
@@ -87,7 +87,7 @@
     "Have you ever faced a technical issue in motion design that required a creative workaround? How did you solve it?",
     "How do you stay updated with the latest motion design trends and techniques?"
   ],
-  "VFX_Artist": [
+  "vfx_artist": [
     "What VFX software are you proficient in?",
     "How do you approach compositing for a complex scene?",
     "Can you explain the difference between CGI, compositing, and motion tracking?",
@@ -109,7 +109,7 @@
     "What’s your approach to color grading and matching VFX shots?",
     "What’s a challenging VFX project you’ve worked on, and how did you solve the difficulties?"
   ],
-  "Video_Editor": [
+  "video_editor": [
     "What editing software do you use, and why?",
     "How do you ensure smooth storytelling through editing?",
     "What’s your approach to pacing and rhythm in a video?",
