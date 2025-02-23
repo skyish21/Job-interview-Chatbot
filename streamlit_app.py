@@ -18,7 +18,7 @@ if "user_input" not in st.session_state:
     st.session_state.user_input = ""  # Initialize user input field state
 
 # Select Job Role
-role = st.selectbox("Select Job Role", ["Data Scientist", "Software Engineer", "HR Interview"])
+role = st.selectbox("Select Job Role", ["Data Scientist", "Software Engineer", "HR Interview", "Motion Graphic Designer", "VFX Artist", "Video Editor"])
 
 # Generate a new question when the button is clicked
 if st.button("Get Interview Question"):
